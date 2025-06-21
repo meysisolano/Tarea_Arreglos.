@@ -1,4 +1,4 @@
-package org.ejercicio2;
+package main.java.org.ejercicio2;
 
 public class Estudiante {
     String nombres;
