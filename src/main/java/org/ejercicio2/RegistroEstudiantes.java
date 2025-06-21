@@ -1,4 +1,4 @@
-package org.ejercicio2;
+package main.java.org.ejercicio2;
 
 import java.util.Scanner;
 
@@ -37,5 +37,7 @@ public class RegistroEstudiantes {
 
         System.out.println("\nEstudiante con el promedio más bajo:");
         System.out.println(menor.nombres + " " + menor.apellidos + " - Promedio: " + menor.promedio);
+
+        scanner.close();
     }
 }
